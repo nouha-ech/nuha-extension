@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "nuha_extension",
+  "version": "1.0",
+  "description": "an extension to Save and track internship application links that i dont have enough time to fill rn.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/icon16.png",
+      "48": "/icon48.png",
+      "128": "/icon128.png"
+    }
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "/icon16.png",
+    "48": "/icon48.png",
+    "128": "/icon128.png"
+  }
+}
